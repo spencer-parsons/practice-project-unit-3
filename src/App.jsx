@@ -10,6 +10,7 @@ function App() {
         </div>
         <h1>Learn & Master GitHub Actions</h1>
         <p>This is a new paragraph!</p>
+        <p>Second one!</p>
       </header>
       <MainContent />
     </>
